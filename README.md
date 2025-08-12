@@ -4,9 +4,7 @@
 
 # Tutorials
 
-## Vite-based App Series
-
-### Internship "Learning React JS Programme"
+##Internship "Learning React JS Programme"
 
 [tutorialV0-react-vite-demo](https://github.com/graemeajones/tutorialV0-react-vite-demo)
 
