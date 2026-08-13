@@ -1,4 +1,4 @@
-[All repositories] (https://github.com/graemeajones?tab=repositories)
+[All repositories](https://github.com/graemeajones?tab=repositories)
 
 # Current
 
