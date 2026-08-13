@@ -4,7 +4,7 @@
 
 ## APIs
 
-[traveljabs (DAD 2025-26)](https://github.com/graemeajones/TravelJabsV1)
+[traveljabs](https://github.com/graemeajones/TravelJabsV1) DAD 2025-26
 
 
 ### Need updating
