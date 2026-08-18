@@ -7,7 +7,7 @@
 | Repository | Course | Year | Deployed |
 |---|---|---|---|
 | [traveljabs](https://github.com/graemeajones/TravelJabsV1) | DAD | 2025-26 | Railway |
-| [geoquest](https://github.com/graemeajones/GeoQuest) | MAD | 2025-26 | Railway |
+| [geoquest](https://github.com/graemeajones/GeoQuest) | MAD | 2025-26 | No |
 
 ### Need updating
 
