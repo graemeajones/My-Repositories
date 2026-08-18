@@ -4,10 +4,10 @@
 
 ### Assessment APIs
 
-| Repository | Course | Year |
-|---|---|---|
-| [traveljabs](https://github.com/graemeajones/TravelJabsV1) | DAD | 2025-26 |
-| [geoquest](https://github.com/graemeajones/GeoQuest) | MAD | 2025-26 |
+| Repository | Course | Year | Deployed |
+|---|---|---|---|
+| [traveljabs](https://github.com/graemeajones/TravelJabsV1) | DAD | 2025-26 | Railway |
+| [geoquest](https://github.com/graemeajones/GeoQuest) | MAD | 2025-26 | Railway |
 
 ### Need updating
 
